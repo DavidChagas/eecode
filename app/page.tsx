@@ -39,7 +39,7 @@ export default function Home() {
 
   return (
     <div className="my-[100px]">
-      <h1 className="text-center font-bold text-[20px]">Gerador de Scripts Google Earth Engine teste</h1>
+      <h1 className="text-center font-bold text-[20px]">Gerador de Scripts Google Earth Engine</h1>
 
       <div className="my-[50px]">
         <h2 className="font-bold">Escolha um Script para GEE</h2>
