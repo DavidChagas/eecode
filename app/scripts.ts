@@ -10,7 +10,7 @@ export function scripts(): ScriptType[] {
   return [
     {
       id: 'script1',
-      name: 'Script com Buffer',
+      name: 'Script base',
       template: `
       // Definir as coordenadas do ponto central
       var point = ee.Geometry.Point({longitude}, {latitude});
